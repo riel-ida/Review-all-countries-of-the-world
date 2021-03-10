@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">All Countries App</string>
+
+    <string name="toolbar_review_all_countries">Review all Countries</string>
+    <string name="toolbar_review_all_neighbors">Countries bordering</string>
+
+    <string name="spinner_prompt">Sort By</string>
+
+    <string name="countries_empty_list">Error in fetching countries</string>
+    <string name="neighbors_empty_list">Could not find bordering countries</string>
+
+    <string-array name="sort_methods_array">
+        <item>Name</item>
+        <item>Area</item>
+    </string-array>
+</resources>
